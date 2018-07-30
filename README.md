@@ -19,4 +19,3 @@ rkt run --interactive quay.io/coreos/alpine-sh
 Ketika perintah di atas dijalankan, rkt akan mengunduh image `alpine-sh` dari repository `quay.io/coreos` sekaligus menjalankannya. Dengan parameter `--interactive`, kita akan dibawa ke prompt container yang sudah dijalankan.
 
 ![alt text](https://github.com/nauticas/rkt/blob/master/images/RKT-Run_Alpine-sh.jpg "Output rkt run alpine-sh")
-
